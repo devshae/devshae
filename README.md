@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Devon Shae.
 
-I am beginner programmer hoping to expand my front-end web dev skills & learn back end!
+I am beginner programmer hoping to expand my front-end and back-end web dev skills!
 
-- I'm currently taking an Intro to Python course & prepping to go back to school
-- I do brand & web design
-- I am fueled solely by iced coffee
+- I'm currently taking an Intro to Python course
+- I am  entering into a MA Software Dev. program in Spring 2026
+- I am alsoo learning more on HTML, CSS, JavaScript
+- I plan to learn Java and C++ as well
 
-i'm a ☕️🎨💻🫶🏻 programmer
-not a 👾🎮👩🏼‍💻📈 programmer
 
 <!--
 **devshae/devshae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
